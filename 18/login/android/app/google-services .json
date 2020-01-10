@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "654008826637",
+    "firebase_url": "https://login-3eb6c.firebaseio.com",
+    "project_id": "login-3eb6c",
+    "storage_bucket": "login-3eb6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654008826637:android:dc90c5647a3f8744da8e44",
+        "android_client_info": {
+          "package_name": "com.teamfoz.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654008826637-7b1o8pm2gv2ae7nf44r9ibuhk4vk1om1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhkgECJCCNPz9F5Kn-RoKzEC0LcQRmdZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654008826637-7b1o8pm2gv2ae7nf44r9ibuhk4vk1om1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
